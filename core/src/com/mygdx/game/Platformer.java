@@ -32,7 +32,7 @@ public class Platformer extends ApplicationAdapter {
 	Rectangle rec;
 	
 	protected int[][] map;
-	protected float widthTile = 8;
+	protected float widthTile = 32;
 	private float heightTile = widthTile;
 	private int widthMap;
 	private int heightMap;	
